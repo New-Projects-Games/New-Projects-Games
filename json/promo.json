@@ -1,0 +1,74 @@
+{
+    "appInfos": [
+        {
+            "packageName": "com.newprojectsgames.mergeball2048",
+            "gameName": "Merge Balls",
+            "urlImage": "https://new-projects-games.github.io/Icons/mergeball.png"
+        },
+        {
+            "packageName": "com.newprojectsgames.demolitioncar",
+            "gameName": "Demolition Car",
+            "urlImage": "https://new-projects-games.github.io/Icons/demolitioncar.png"
+        },
+        {
+            "packageName": "com.newprojectsgames.officeescape",
+            "gameName": "Office Escape",
+            "urlImage": "https://new-projects-games.github.io/Icons/officeescape.png"
+        },
+        {
+            "packageName": "com.newprojectsgames.carbattlearena",
+            "gameName": "Car Battle Arena",
+            "urlImage": "https://new-projects-games.github.io/Icons/carbattlearena.png"
+        },
+        {
+            "packageName": "com.newprojectsgames.mergepeoples",
+            "gameName": "Merge People",
+            "urlImage": "https://new-projects-games.github.io/Icons/mergepeoples.png"
+        },
+        {
+            "packageName": "com.newprojectsgames.wordmaster3d",
+            "gameName": "Words Master",
+            "urlImage": "https://new-projects-games.github.io/Icons/wordmaster3d.png"
+        },
+        {
+            "packageName": "com.newprojectsgames.brawlkings",
+            "gameName": "Brawl Kings",
+            "urlImage": "https://new-projects-games.github.io/Icons/brawlkings.png"
+        },
+        {
+            "packageName": "com.newprojectsgames.impostorjetpackescape",
+            "gameName": "Impostor Jetpack Escape",
+            "urlImage": "https://new-projects-games.github.io/Icons/impostorjetpackescape.png"
+        },
+        {
+            "packageName": "com.newprojectsgames.shredio",
+            "gameName": "Shred IO",
+            "urlImage": "https://new-projects-games.github.io/Icons/shredio.png"
+        },
+        {
+            "packageName": "com.newprojectsgames.cube2048",
+            "gameName": "Merge Road Cube 2048",
+            "urlImage": "https://new-projects-games.github.io/Icons/cube2048.png"
+        },
+        {
+            "packageName": "com.npg.TheWizardStickmanWar",
+            "gameName": "The Wizard: Stickman War",
+            "urlImage": "https://new-projects-games.github.io/Icons/wizard.png"
+        },
+        {
+            "packageName": "com.npg.TanksCrazyWarAgainstStickman",
+            "gameName": "Tanks: Crazy War Stickman",
+            "urlImage": "https://new-projects-games.github.io/Icons/tanks.png"
+        },
+        {
+            "packageName": "com.NPG.StickmanArchers3",
+            "gameName": "Stickman: Archers, Spearman, Vikings",
+            "urlImage": "https://new-projects-games.github.io/Icons/stickman%20archers.png"
+        },
+        {
+            "packageName": "com.newprojectsgames.ColorStackRunners",
+            "gameName": "Color Stack Runners",
+            "urlImage": "https://new-projects-games.github.io/Icons/colorstackrunners.png"
+        }
+    ]
+}
